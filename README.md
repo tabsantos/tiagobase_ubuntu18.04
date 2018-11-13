@@ -11,7 +11,7 @@ sudo ./tiagobase1804-3
 
 Principais programas:
 
-Pacote MPI \t
+Pacote MPI
 libreoffice completo em pt-br
 inkscape
 krita
