@@ -11,16 +11,16 @@ sudo ./tiagobase1804-3
 
 Principais programas:
 
-Pacote MPI
-libreoffice completo em pt-br
-inkscape
-krita
-gimp
-blender
-ubuntu-unity-desktop básico
-apt-fast
-java
-openjdk
-python
-python3
-dropbox
+Pacote MPI, 
+libreoffice completo em pt-br, 
+inkscape, 
+krita, 
+gimp, 
+blender, 
+ubuntu-unity-desktop básico, 
+apt-fast, 
+java, 
+openjdk, 
+python, 
+python3, 
+dropbox.
